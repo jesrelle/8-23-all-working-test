@@ -1,0 +1,8 @@
+Protractor results for: 8/21/2016, 5:32:02 PM
+
+AppDir:./
+  Suite: QuickStart E2E Tests -- failed
+    failed - should display: My First Angular 2 App
+      message: Error: Timeout - Async callback was not invoked within timeout specified by jasmine.DEFAULT_TIMEOUT_INTERVAL.
+      message: Expected 'withcenter online spelling dictionary' to equal 'My First Angular 2 App'.
+
